@@ -1,2 +1,5 @@
+[![Maintainability](https://qlty.sh/gh/AlexPythonn/projects/python-project-140/maintainability.svg)](https://qlty.sh/gh/AlexPythonn/projects/python-project-140)
+
 ### Hexlet tests and linter status:
+
 [![Actions Status](https://github.com/AlexPythonn/python-project-140/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlexPythonn/python-project-140/actions)
