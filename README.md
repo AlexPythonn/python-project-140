@@ -1,3 +1,6 @@
+Demo Brain-Gcd  
+https://asciinema.org/a/ecfOZfqOorlfmSQxeQjJWbSeM
+
 Demo Brain-Calc
 https://asciinema.org/a/J0x5BkbcfFph5mJcOQ09gRv9P
 
@@ -9,5 +12,6 @@ Insignia Maintainability
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AlexPythonn/python-project-140/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlexPythonn/python-project-140/actions)
+
 
 
