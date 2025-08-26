@@ -16,3 +16,6 @@ lint:
 
 clean:
 	rm -rf dist *.egg-info .venv
+
+correct:
+	uv run ruff check . --fix
