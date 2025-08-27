@@ -2,7 +2,7 @@ from brain_games.even import even_or_odd
 
 
 def main():
-    print("brain-even")
+    print("brain-even\n")
     print("Welcome to the Brain Games!")
     even_or_odd()
 

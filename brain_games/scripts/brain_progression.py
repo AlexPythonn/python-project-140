@@ -2,7 +2,7 @@ from brain_games.progression import progre
 
 
 def main():
-    print("brain-progression")
+    print("brain-progression\n")
     print("Welcome to the Brain Games!")
     progre()
     

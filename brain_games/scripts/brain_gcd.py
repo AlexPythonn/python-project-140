@@ -2,7 +2,7 @@ from brain_games.gcd import mcd
 
 
 def main():
-    print("brain-gcd")
+    print("brain-gcd\n")
     print("Welcome to the Brain Games!")
     mcd()
 
