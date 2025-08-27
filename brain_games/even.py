@@ -9,8 +9,12 @@ def even_or_odd():
 
     for i in range(3):
         num = prompt("Question: ")
-        answer = prompt("Your answer: ")
-
+        while True:
+            answer = prompt("Your answer: ")
+            if answer in ("yes", "no"):
+                break
+            print(f"❌ Error: You can only answer 'yes' or 'no'. Please try again {name} !")
+            return
         if int(num) % 2 != 0 and answer.lower() == "yes":
             print("'yes' is wrong answer ;(. Correct answer was 'no'.")
             print(f"Let's try again, {name} !")
