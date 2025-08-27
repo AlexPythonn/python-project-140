@@ -1,3 +1,5 @@
+Demo Brain-prime   https://asciinema.org/a/H2goTGshWh0tErenALVeS2wMs
+
 Demo Brain-progression  https://asciinema.org/a/h4CooN3QV1cr7OqJpLfWKoZ1f
 
 
