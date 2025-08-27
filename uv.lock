@@ -16,7 +16,7 @@ wheels = [
 
 [[package]]
 name = "python-project-140"
-version = "0.1.7"
+version = "0.1.8"
 source = { editable = "." }
 dependencies = [
     { name = "prompt-toolkit" },
