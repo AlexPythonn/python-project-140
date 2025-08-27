@@ -1,8 +1,8 @@
-from brain_games.cli import welcome_user
+import random
 
 from prompt_toolkit import prompt
 
-import random
+from brain_games.cli import welcome_user
 
 
 def is_prime(n: int) -> bool:

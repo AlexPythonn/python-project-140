@@ -1,5 +1,6 @@
 from brain_games.prime import play_prime_game
 
+
 def main():
     print("brain-prime\n")
     print("Welcome to the Brain Games!")

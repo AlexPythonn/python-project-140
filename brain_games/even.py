@@ -13,7 +13,8 @@ def even_or_odd():
             answer = prompt("Your answer: ")
             if answer in ("yes", "no"):
                 break
-            print(f"❌ Error: You can only answer 'yes' or 'no'. Please try again {name} !")
+            print("❌ Error: You can only answer 'yes' or 'no'.")
+            print(f"Please try again {name}!")
             return
         if int(num) % 2 != 0 and answer.lower() == "yes":
             print("'yes' is wrong answer ;(. Correct answer was 'no'.")
