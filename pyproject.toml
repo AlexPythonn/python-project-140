@@ -2,7 +2,6 @@
 name = "python-project-140"
 version = "0.1.9"
 description = "This game will test your mathematical reasoning skills."
-authors = "Alex Cardenas"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
